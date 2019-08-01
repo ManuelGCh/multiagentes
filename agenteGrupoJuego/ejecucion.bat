@@ -1,0 +1,1 @@
+java -cp jade.jar;target\classes jade.Boot -gui -agents consola1:agentes.AgenteConsola;monitor1:agentes.agenteMonitor;Agricultor1:agentes.agenteAgricultor;Agricultor2:agentes.agenteAgricultor;Agricultor3:agentes.agenteAgricultor;Mercado1:agentes.agenteMercado;Mercado2:agentes.agenteMercado;
